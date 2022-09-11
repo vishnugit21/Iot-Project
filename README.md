@@ -10,3 +10,7 @@
 .Buzzer</br>
 .Ultrasonic sensor (HC-SR04)</br>
 .Breadboard and hook-up wires</br>
+
+# Images of The setup
+ ![](https://thesharanmohanblog.files.wordpress.com/2019/05/circuit_buz_ult_lcd.png?w=740)
+ <img src="https://thesharanmohanblog.files.wordpress.com/2019/05/circuit_buz_ult_lcd.png?w=740" width="48" height="48">
