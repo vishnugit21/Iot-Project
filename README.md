@@ -12,5 +12,6 @@
 .Breadboard and hook-up wires</br>
 
 # Images of The setup
- ![](https://thesharanmohanblog.files.wordpress.com/2019/05/circuit_buz_ult_lcd.png?w=740)
- <img src="https://thesharanmohanblog.files.wordpress.com/2019/05/circuit_buz_ult_lcd.png?w=740" width="48" height="48">
+ 
+ <img src="https://thesharanmohanblog.files.wordpress.com/2019/05/circuit_buz_ult_lcd.png?w=740" width="500" height="500">
+<img src="C:\Users\HP\Pictures\Screenshots" width="100" height="100">
